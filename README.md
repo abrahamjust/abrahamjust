@@ -73,6 +73,10 @@ hobbies: ["reading", "watching a series", "programming", "gaming"]
 ---
 
 <h2> 📈 &nbsp;My GitHub History!!</h2>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=abrahamjust" />
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats-three-delta-89.vercel.app/api?username=abrahamjust&show_icons=true&theme=tokyonight" />
+    &nbsp;&nbsp;
+    <img height="180em" src="https://github-readme-stats-three-delta-89.vercel.app/api/top-langs/?username=abrahamjust&layout=compact&theme=tokyonight" />
 </p>
+
