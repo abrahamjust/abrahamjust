@@ -8,15 +8,15 @@
 
 <!--Links -->
 <p align="center">
-<a href="https://www.linkedin.com/in/abraham-justin-b28184284/">
-  <img height="50" src="assets/linkedin.png"/>
-</a>
-<a href="https://leetcode.com/u/Abrahamjust/">
-  <img height="50" src="assets/leetcode.svg"/>
-</a>
-<a href="https://www.instagram.com/abrahamjust05/">
-  <img height="50" src="assets/instagram.png"/>
-</a>
+    <a href="https://www.linkedin.com/in/abraham-justin-b28184284/">
+        <img height="50" src="assets/linkedin.png"/>
+    </a>
+    <a href="https://leetcode.com/u/Abrahamjust/">
+        <img height="50" src="assets/LeetCode.png"/>
+    </a>
+    <a href="https://www.instagram.com/abrahamjust05/">
+        <img height="50" src="assets/instagram.png"/>
+    </a>
 </p>
 
 <p align="center">
