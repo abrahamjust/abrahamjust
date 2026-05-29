@@ -80,3 +80,4 @@ hobbies: ["reading", "watching a series", "programming", "gaming"]
     <img height="180em" src="https://github-readme-stats-three-delta-89.vercel.app/api/top-langs/?username=abrahamjust&layout=compact&theme=tokyonight" />
 </p>
 
+![Snake animation](https://github.com/abrahamjust/abrahamjust/blob/output/github-contribution-grid-snake.svg)
