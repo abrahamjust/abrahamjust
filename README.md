@@ -73,4 +73,6 @@ hobbies: ["reading", "watching a series", "programming", "gaming"]
 ---
 
 <h2> 📈 &nbsp;My GitHub History!!</h2>
-[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamjust)](https://github.com/abrahamjust/github-readme-stats)
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=abrahamjust" />
+</p>
