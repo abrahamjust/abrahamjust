@@ -34,7 +34,7 @@ located_in: Chennai, TamilNadu, India
 current_job: Full Stack Developer
 education: [
     College: Vellore Institute of Technology, Chennai,
-    Program: Masters in Technology (Integrated) in Computer     Science (specialization in Business Analytics)
+    Program: Masters in Technology (Integrated) in Computer Science (specialization in Business Analytics)
     ]
 
 fields_of_interests:
