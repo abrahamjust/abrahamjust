@@ -31,10 +31,11 @@
 ```yaml
 name: Abraham Justin
 located_in: Chennai, TamilNadu, India
-current_job: Full Stack Developer
+aspiring_role: Full Stack Developer
 education: [
     College: Vellore Institute of Technology, Chennai,
-    Program: Masters in Technology (Integrated) in Computer Science (specialization in Business Analytics)
+    Program: Masters in Technology (Integrated) in Computer Science (specialization in Business Analytics),
+    CGPA: 9.21
     ]
 
 fields_of_interests:
@@ -75,9 +76,14 @@ hobbies: ["reading", "watching a series", "programming", "gaming"]
 <h2> 📈 &nbsp;My GitHub History!!</h2>
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-three-delta-89.vercel.app/api?username=abrahamjust&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-three-delta-89.vercel.app/api?username=abrahamjust&show_icons=true&theme=tokyonight&include_all_commits=true" />
     &nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats-three-delta-89.vercel.app/api/top-langs/?username=abrahamjust&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-three-delta-89.vercel.app/api/top-langs/?username=abrahamjust&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+<p align="center">
+    <a href="https://github.com/abrahamjust">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrahamjust&theme=tokyo-night" alt="Abraham's GitHub Activity Graph" />
+    </a>
 </p>
 
 ![snake gif](https://github.com/abrahamjust/abrahamjust/blob/output/github-snake-dark.svg)
